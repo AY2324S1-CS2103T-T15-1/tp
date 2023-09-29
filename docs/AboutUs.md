@@ -11,15 +11,15 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Yeap Rayson
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/respirayson.png.jpg" width="200px">
 
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[homepage](http://linkedin.com/in/rayson-yeap)]
+[[github](https://github.com/respirayson)]
+[[portfolio](team/respirayson.md)]
 
-* Role: Project Advisor
+* Role: Git expert, Documentation
 
 ### Jane Doe
 
