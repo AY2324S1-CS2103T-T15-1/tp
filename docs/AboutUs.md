@@ -10,11 +10,11 @@ We are a team based in the [School of Computing, National University of Singapor
 You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project FAKEJARVIS
-<img src="images/fakejarvis.png.jpg" width="200px">
+<img src="images/fakejarvis.png" width="200px">
 
 ### Yeap Rayson
 
-<img src="images/respirayson.png.jpg" width="200px">
+<img src="images/respirayson.png" width="200px">
 
 [[homepage](http://linkedin.com/in/rayson-yeap)]
 [[github](https://github.com/respirayson)]
