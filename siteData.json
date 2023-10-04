@@ -9,7 +9,7 @@
         "project-fakejarvis-team": "Project FAKEJARVIS' Team",
         "yeap-rayson": "Yeap Rayson",
         "jian-song": "Jian Song",
-        "johnny-doe": "Johnny Doe",
+        "ding-han": "Ding Han",
         "ryan-pang": "Ryan Pang",
         "ho-jia-cheng": "Ho Jia Cheng"
       },
@@ -145,6 +145,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/ldinghan.md",
+      "title": "Ding Han's Project Portfolio Page",
+      "headings": {
+        "project-f-a-k-e-j-a-r-v-i-s": "Project: F.A.K.E.J.A.R.V.I.S."
       },
       "headingKeywords": {}
     },
