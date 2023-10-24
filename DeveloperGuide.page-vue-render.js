@@ -221,7 +221,7 @@ with(this){return _c('p',[_c('em',[_v("{More to be added}")])])}
 with(this){return _c('h3',{attrs:{"id":"use-cases"}},[_v("Use cases"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#use-cases","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("(For all use cases below, the "),_c('strong',[_v("System")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("FAKEJARVIS")]),_v(" and the "),_c('strong',[_v("Actor")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("user")]),_v(", unless specified otherwise)")])}
+with(this){return _c('p',[_v("(For all use cases below, the "),_c('strong',[_v("System")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("F.A.K.E.J.A.R.V.I.S.")]),_v(" and the "),_c('strong',[_v("Actor")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("user")]),_v(", unless specified otherwise)")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Delete a person")])])}
@@ -230,13 +230,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Delete a person")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to delete a specific person in the list")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS deletes the person")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to delete a specific person in the list")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. deletes the person")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. FAKEJARVIS shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. F.A.K.E.J.A.R.V.I.S. shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Delete a task")])])}
@@ -245,13 +245,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Delete a task")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to delete a specific person in the list")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS deletes the person")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to delete a specific person in the list")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. deletes the person")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. FAKEJARVIS shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. F.A.K.E.J.A.R.V.I.S. shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Grade an assignment")])])}
@@ -260,13 +260,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Grade an assignment")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to grade an assignment for a specific person in the list")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS assigns given grade to the student")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to grade an assignment for a specific person in the list")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. assigns given grade to the student")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. FAKEJARVIS shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. F.A.K.E.J.A.R.V.I.S. shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Find Student Profile")])])}
@@ -275,13 +275,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Find Student Profile")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User request a search query to find a student's profile")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS returns matching results from the database")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User request a search query to find a student's profile")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. returns matching results from the database")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. No matching profiles.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. FAKEJARVIS shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. No matching profiles.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. F.A.K.E.J.A.R.V.I.S. shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Filter Results")])])}
@@ -290,13 +290,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Filter Results")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons.")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS shows a list of persons.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to apply filters to the results via attribute "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("FILTER_ATTRIBUTE")]),_v(", or description "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("FILTER_DESCRIPTION")]),_v(".")])]),_v(" "),_c('li',[_c('p',[_v("FAKEJARVIS shows the filter results.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons.")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. shows a list of persons.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to apply filters to the results via attribute "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("FILTER_ATTRIBUTE")]),_v(", or description "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("FILTER_DESCRIPTION")]),_v(".")])]),_v(" "),_c('li',[_c('p',[_v("F.A.K.E.J.A.R.V.I.S. shows the filter results.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. No filtered results.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. FAKEJARVIS shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. No filtered results.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. F.A.K.E.J.A.R.V.I.S. shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('em',[_v("{More to be added}")])])}
@@ -338,6 +338,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Fri, 20 Oct 2023, 15:44:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 24 Oct 2023, 10:22:46 GMT+8]")])])])}
 }];
   
