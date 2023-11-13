@@ -67,7 +67,15 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "assignments-2": "Assignments",
+        "viewing-assignments": "Viewing assignments",
+        "edit-grades": "Edit grades",
+        "delete-grades": "Delete grades",
+        "edit-comments": "Edit comments",
+        "delete-comments": "Delete comments",
+        "saving-data": "Saving data",
+        "appendix-instructions-for-manual-testing-2": "Appendix: Instructions for manual testing",
+        "notable-changes": "Notable Changes"
       },
       "headingKeywords": {}
     },
