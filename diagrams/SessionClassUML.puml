@@ -17,7 +17,7 @@ class SessionNumber {
   + <u>isValidSessionNumber(String): boolean
 }
 
-class SessionStudents {
+class StudentSet {
   + students: List<Person>
   + <u>MESSAGE_CONSTRAINTS: String
   + <u>VALIDATION_REGEX: String
@@ -39,8 +39,8 @@ class Person {
 }
 
 Session *-- "1" SessionNumber: sessionNumber
-Session *-- "1" SessionStudents: sessionStudents
+Session *-- "1" StudentSet: sessionStudents
 Session *-- "1" SessionRemark: sessionRemark
-SessionStudents o-- "*" Person: contains
+StudentSet o-- "*" Person: contains
 
 @enduml
