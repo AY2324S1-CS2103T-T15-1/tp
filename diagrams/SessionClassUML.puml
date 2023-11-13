@@ -2,7 +2,7 @@
 hide circle
 skinparam classAttributeIconSize 0
 
-class Session {
+Class Session {
   + getSessionNumber(): SessionNumber
   + getStudents(): SessionStudents
   + getSessionRemark(): SessionRemark
@@ -10,14 +10,14 @@ class Session {
   + getSessionInfo(): String
 }
 
-class SessionNumber {
+Class SessionNumber {
   + sessionNumber: String
   + <u>MESSAGE_CONSTRAINTS: String
   + <u>VALIDATION_REGEX: String
   + <u>isValidSessionNumber(String): boolean
 }
 
-class StudentSet {
+Class StudentSet {
   + students: List<Person>
   + <u>MESSAGE_CONSTRAINTS: String
   + <u>VALIDATION_REGEX: String
@@ -28,14 +28,14 @@ class StudentSet {
   + contains(Person): boolean
 }
 
-class SessionRemark {
+Class SessionRemark {
   + sessionRemark: String
   + <u>MESSAGE_CONSTRAINTS: String
   + <u>VALIDATION_REGEX: String
   + <u>isValidSessionRemark(String): boolean
 }
 
-class Person {
+Class Person {
 }
 
 Session *-- "1" SessionNumber: sessionNumber
